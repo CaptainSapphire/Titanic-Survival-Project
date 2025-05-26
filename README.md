@@ -13,6 +13,9 @@ The goal of this project is to find out if a passanger survived the tragedy base
 ## The Workflow ⏩
 All sources establish this as a general workflow, and I will log my progress here as well. 
 ### Data Pre-processing
+We need to drop or autofill null/empty columns, otherwise the data we will be looking at will be incomplete and thus inaccurate. <br><br>
+
+We also need to figure out what columns are relevant to our analysis (so we can drop the useless ones). 
 
 ### Data Analysis
 
