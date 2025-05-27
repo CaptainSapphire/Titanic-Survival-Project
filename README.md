@@ -15,7 +15,12 @@ All sources establish this as a general workflow, and I will log my progress her
 ### Data Pre-processing
 We need to drop or autofill null/empty columns, otherwise the data we will be looking at will be incomplete and thus inaccurate. <br><br>
 
-We also need to figure out what columns are relevant to our analysis (so we can drop the useless ones). 
+We also need to figure out what columns are relevant to our analysis (so we can drop the useless ones). <br><br>
+- Age, gender: "women and children go first"
+- class: first and second class had better access to the lifeboats
+- cabin: certain cabins had quicker and easier access
+
+
 
 ### Data Analysis
 
